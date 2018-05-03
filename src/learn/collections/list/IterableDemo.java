@@ -4,8 +4,8 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 /**
- * 增强的for循环，即对象是想Iterable接口，返回一个迭代器对象
- * 而这个迭代器，通常是对象的一个集合类的成员变量，让该对象有可以遍历的对象
+ * 澧炲己鐨刦or寰幆锛屽嵆瀵硅薄鏄兂Iterable鎺ュ彛锛岃繑鍥炰竴涓凯浠ｅ櫒瀵硅薄
+ * 鑰岃繖涓凯浠ｅ櫒锛岄�氬父鏄璞＄殑涓�涓泦鍚堢被鐨勬垚鍛樺彉閲忥紝璁╄瀵硅薄鏈夊彲浠ラ亶鍘嗙殑瀵硅薄
  * @author Administrator
  *
  */

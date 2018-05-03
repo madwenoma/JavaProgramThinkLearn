@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * ±¾ÀàÖ÷ÒªÓÃÓÚÑĞ¾¿CollectionsµÄÒ»Ğ©Ê¹ÓÃ·½·¨
+ * æœ¬ç±»ä¸»è¦ç”¨äºç ”ç©¶Collectionsçš„ä¸€äº›ä½¿ç”¨æ–¹æ³•
  * @author Administrator
  *
  */

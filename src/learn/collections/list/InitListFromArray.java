@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * 通过array直接初始化list
+ * 閫氳繃array鐩存帴鍒濆鍖杔ist
  * @author biGpython
  *
  */

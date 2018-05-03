@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 /**
- * Ä£ÄâÒ»¸ö¼òµ¥µÄmap ÓÉÁ½¸öarraylist ¹¹³É
+ * æ¨¡æ‹Ÿä¸€ä¸ªç®€å•çš„map ç”±ä¸¤ä¸ªarraylist æ„æˆ
  * @author biGpython
  *
  * @param <K>
@@ -54,7 +54,7 @@ class SlowMap<K,V> extends AbstractMap<K,V>{
 	
 }
 /**
- * ÊµÏÖÁËmapµÄentry½Ó¿Ú
+ * å®ç°äº†mapçš„entryæ¥å£
  * @author biGpython
  *
  * @param <K>
@@ -127,7 +127,7 @@ class MyMapEntry<K,V> implements Map.Entry<K,V>{
 	}
 }
 /**
- * ²âÊÔÀà
+ * æµ‹è¯•ç±»
  * @author biGpython
  *
  */
